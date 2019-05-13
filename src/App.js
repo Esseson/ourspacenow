@@ -12,8 +12,7 @@ number: {
   value: 30,
   density: {
     enable: true,
-    color: '#808080',
-    value_area: 800
+    value_area: 1000
   }
 }
 }

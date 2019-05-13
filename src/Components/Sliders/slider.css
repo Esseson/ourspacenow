@@ -1,13 +1,6 @@
 .slider{
     justify-content: left;
+    position: relative;
     
 }
 
-.sameline{
-
-}
-
-
-.hr{
-    color: black;
-}
