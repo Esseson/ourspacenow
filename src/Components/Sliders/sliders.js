@@ -13,7 +13,7 @@ function sliders(){
                 <div>
                     <Carousel float-left/>
                     <Carousel float-center/>
-                    <Carousel float-right/>
+                    <Carousel float-none/>
                     <Carousel float-right/>
                 </div>
  </div>

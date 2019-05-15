@@ -5,6 +5,8 @@ import Navigation from '../src/Components/Navigation/Navigation'
 import SearchProperties from '../src/Components/SearchProperties/SearchProperties'
 import Sliders from '../src/Components/Sliders/sliders';
 import PayPerClick from '../src/Components/PayPerClick/PayPerClick';
+import TopCities from '../src/Components/TopCities/TopCities';
+
 
 
 const particlesOptions = {
@@ -30,7 +32,9 @@ class App extends Component{
               <SearchProperties />
               <Sliders />
               <PayPerClick />
-
+                <hr>
+                </hr>
+             <TopCities />
           </div>
   
 

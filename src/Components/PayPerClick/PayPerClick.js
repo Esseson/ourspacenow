@@ -5,8 +5,8 @@ import './PayPerClick.css';
 
 function payperclick(){
     return(
-        <div>
-                <h2>paid adverts</h2>
+        <div class='p-auto m-auto'>
+                <h2>Paid Adverts</h2>
 
                 <hr>
                 </hr>
