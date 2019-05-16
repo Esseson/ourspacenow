@@ -6,6 +6,8 @@ import SearchProperties from '../src/Components/SearchProperties/SearchPropertie
 import Sliders from '../src/Components/Sliders/sliders';
 import PayPerClick from '../src/Components/PayPerClick/PayPerClick';
 import TopCities from '../src/Components/TopCities/TopCities';
+import Footer from '../src/Components/Footer/Footer';
+
 
 
 
@@ -34,9 +36,9 @@ class App extends Component{
               <PayPerClick />
                 <hr>
                 </hr>
-             <TopCities />
+          <TopCities />
+          <Footer />
           </div>
-  
 
       );
   };
