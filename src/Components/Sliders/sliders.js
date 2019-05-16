@@ -11,10 +11,11 @@ function sliders(){
             <h1>Available Properties</h1>
                  <hr></hr>
                 <div>
-                    <Carousel float-left/>
-                    <Carousel float-center/>
-                    <Carousel float-none/>
-                    <Carousel float-right/>
+                    <Carousel class="cards pl-5 pr-5"/>
+                    <Carousel class="cards pl-5 pr-5"/>
+                    <Carousel class="cards pl-5 pr-5"/>
+                    <Carousel class="cards pl-5 pr-5"/>
+
                 </div>
  </div>
 
