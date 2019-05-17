@@ -1,4 +1,5 @@
 import React from 'react';
+import './TopCities.css';
 
 
 
@@ -6,10 +7,8 @@ import React from 'react';
 function TopCities(){
     return(
 
-        <div class=' cities d-block justify-content-center'>
-            <h1> Top Cities</h1>
-
-                <div class='d-block justify-content-left'>
+        <div class='cities d-flex '>
+                <div class=''>
                 <ul class="list-unstyled">
                 <li>New York</li>
                 <li>Los Angeles</li>
@@ -21,6 +20,8 @@ function TopCities(){
                 <li> Denver</li>
                 </ul>
                 </div>
+
+              
 
 
 

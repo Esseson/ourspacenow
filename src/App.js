@@ -7,6 +7,8 @@ import Sliders from '../src/Components/Sliders/sliders';
 import PayPerClick from '../src/Components/PayPerClick/PayPerClick';
 import TopCities from '../src/Components/TopCities/TopCities';
 import Footer from '../src/Components/Footer/Footer';
+import TrendingCities from '../src/Components/TrendingCities/TrendingCities';
+
 
 
 
@@ -36,6 +38,8 @@ class App extends Component{
               <PayPerClick />
                 <hr>
                 </hr>
+         <TrendingCities />
+         <hr></hr>
           <TopCities />
           <Footer />
           </div>

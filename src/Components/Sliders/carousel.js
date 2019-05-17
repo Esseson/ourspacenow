@@ -5,7 +5,7 @@ import React from 'react';
 function carousel(){
     return(
 
-        <div class="card pointer" style={{ width:"18rem", height:'18rem', display:"inline-block", padding:"10px 20px" }} pl-5>
+        <div class="card pointer" style={{ width:"11rem", height:'11rem', display:"inline-block", padding:"10px 10px" }} pl-5>
         <div class="card-body">
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
@@ -29,9 +29,7 @@ function carousel(){
             </a>
             </div>
           <h5 class="card-title"> $3000 </h5>
-          <p class="card-text">123 Broad Street, <br></br>
-          New York.
-          </p>
+
         </div>
       </div>
       
