@@ -1,13 +1,10 @@
-.About{
+.content{
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    width: 800px;
-    height: 500px;
+    width: 600px;
+    height: 400px;
     margin: 0px 5px 120px 10px;
     padding: 10px;
 
-}
-.strong{
-    border-bottom: 2px solid black;
 
 }

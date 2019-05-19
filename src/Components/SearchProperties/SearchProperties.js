@@ -7,44 +7,27 @@ function SearchProperties(){
 
     return(
  <div>
-        {/* <div class='About pt-5 container'>
-
-                <div class='strong row'>
-            <h1> <strong>About Our SpaceNow </strong> </h1>
-                        </div>
-
-                    <div class='content m-5 col-sm'>
-                        <h5>Our Space Now is the place to find your future business space. 
-                        <p></p>
-                        Unlike the giants in commercial space ads, OurSpaceNow.com caters<p></p>
-                        to the small owners, agents and managers who make up a major <p></p>
-                        part of the Retail/Office space rentals. 
-                        Our low cost ads will allow for more<p></p>
-                        options to post ads and thus lower start up costs for tenants.
-                        <p></p>
-                        Join today and find the future home for your business.
-                        </h5>
-                        <div class='col'>
-                        <h1>let's see</h1> */}
+        
 
 
                         <div class="container">
                         <div class="row">
-                            <div class="col-xl">
+                        <div class="col-xl">
                             <div>
                             <h1> <strong>About Our SpaceNow </strong> </h1>
                                  </div>
+                                 <div class='content'>
                         <h5>Our Space Now is the place to find your future business space. 
                         <p></p>
                         Unlike the giants in commercial space ads, OurSpaceNow.com caters<p></p>
                         to the small owners, agents and managers who make up a major <p></p>
                         part of the Retail/Office space rentals. 
-                        Our low cost ads will allow for more<p></p>
+                        Our low cost ads will allow for more
                         options to post ads and thus lower start up costs for tenants.
                         <p></p>
                         Join today and find the future home for your business.
                         </h5>
-
+                                </div>
                             </div>
                             <div class="col-sm">
 
