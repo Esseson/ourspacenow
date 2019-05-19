@@ -7,11 +7,6 @@ import './PayPerClick.css';
 function payperclick(){
     return(
         <div class='pt-5 pl-5 paid'>
-                    <div class= 'mt-5 mb-5'>
-                <h2>Continue...</h2>
-                    </div>
-                <hr>
-                </hr>
             <div class='float-end'>
                         <div>
                     <div class="d-flex justify-content-end pl-5 pointer">

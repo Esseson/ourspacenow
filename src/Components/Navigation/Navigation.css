@@ -1,7 +1,13 @@
 
 .btn-light{
-    background: purple;
+    background:#8400FF;
     margin: 10px;
-    text-decoration: azure;
 
+}
+.Navigation{
+    width: 100%;
+}
+
+.bg-primary{
+    background: white;
 }

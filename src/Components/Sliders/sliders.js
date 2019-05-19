@@ -20,12 +20,6 @@ function sliders(){
                     <Carousel />
                     </div>
 
-                    <div class='carol d-flex pb-5'>
-                    <Carousel/>
-                    <Carousel />
-                    <Carousel />
-                    <Carousel />
-                    </div>
 
                 
 

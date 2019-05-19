@@ -1,9 +1,13 @@
-.search{
+.About{
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-}
+    width: 800px;
+    height: 500px;
+    margin: 0px 5px 120px 10px;
+    padding: 10px;
 
-.btn-primary{
-    color: navy;
+}
+.strong{
+    border-bottom: 2px solid black;
 
 }
