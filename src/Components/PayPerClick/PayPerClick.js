@@ -30,7 +30,7 @@ function payperclick(){
                          </div>
 
                     <div class="d-flex justify-content-end pl-5 pointer">
-                    <img src="http://www.androidguys.com/wp-content/uploads/2011/03/monster.jpg" alt="adverts" height="100" width="300" />
+                    <img src="http://www.androidguys.com/wp-content/uploads/2011/03/monster.jpg" alt="adverts" height="100" width="200" />
                 </div>
                 </div>
                 </div>
