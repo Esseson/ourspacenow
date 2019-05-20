@@ -28,8 +28,9 @@ function SearchProperties(){
                         Join today and find the future home for your business.
                         </h5>
                                 </div>
+
                             </div>
-                            <div class="col-6 col-md-4">
+                        <div class="col-6 col-md-4">
 
                             <div class="d-flex justify-content-end pt-3 pointer">
                              <img src="https://s3-media3.fl.yelpcdn.com/bphoto/1GTD102Qdrd4qT9xV0k25w/ls.jpg" alt="adverts" height="300" width="300" />
