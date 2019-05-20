@@ -12,7 +12,7 @@ function SearchProperties(){
 
                         <div class="container">
                         <div class="row">
-                        <div class="col-xl">
+                        <div class="col-12 col-md-8">
                             <div>
                             <h1> <strong>About Our SpaceNow </strong> </h1>
                                  </div>
@@ -29,7 +29,7 @@ function SearchProperties(){
                         </h5>
                                 </div>
                             </div>
-                            <div class="col-sm">
+                            <div class="col-6 col-md-4">
 
                             <div class="d-flex justify-content-end pt-3 pointer">
                              <img src="https://s3-media3.fl.yelpcdn.com/bphoto/1GTD102Qdrd4qT9xV0k25w/ls.jpg" alt="adverts" height="300" width="300" />
@@ -51,9 +51,7 @@ function SearchProperties(){
                         </div>
                         </div>
 
-                        {/* </div>
-                    </div>
-                 </div> */}
+                   
            
             
 
