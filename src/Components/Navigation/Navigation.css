@@ -2,12 +2,8 @@
 .btn-light{
     background:#8400FF;
     margin: 10px;
+    color: white;
+
 
 }
-.Navigation{
-    width: auto;
-}
 
-.bg-primary{
-    background: white;
-}

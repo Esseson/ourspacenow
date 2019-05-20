@@ -13,7 +13,7 @@ function SearchProperties(){
                         <div class="container">
                         <div class="row">
                         <div class="col-12 col-md-8">
-                            <div>
+                                    <div>
                             <h1> <strong>About Our SpaceNow </strong> </h1>
                                  </div>
                                  <div class='content'>
