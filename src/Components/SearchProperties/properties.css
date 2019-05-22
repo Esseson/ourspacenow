@@ -1,0 +1,9 @@
+.prop{
+    border-bottom: 2px red solid;
+}
+
+.address{
+    text-align: left;
+    margin: auto 0px;
+    width: 700px;
+}

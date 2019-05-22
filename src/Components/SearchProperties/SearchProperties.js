@@ -1,6 +1,6 @@
 import React from 'react';
 import './search.css';
-
+import Properties from './Properties';
 
 
 function SearchProperties(){
@@ -12,25 +12,29 @@ function SearchProperties(){
 
                         <div class="container">
                         <div class="row">
-                        <div class="col-12 col-md-8">
+                        <div class="col-8">
                                     <div>
                             <h1> <strong>About Our SpaceNow </strong> </h1>
                                  </div>
                                  <div class='content'>
-                        <h5>Our Space Now is the place to find your future business space. 
+                        <h3>Our Space Now is the place to find your future business space. 
+                        <br></br>
+                        Unlike the giants in commercial space ads, OurSpaceNow.com caters
+                        to the small owners, agents and managers who make up a major part of the Retail/Office space rentals. <br></br>
                         <p></p>
-                        Unlike the giants in commercial space ads, OurSpaceNow.com caters<p></p>
-                        to the small owners, agents and managers who make up a major <p></p>
-                        part of the Retail/Office space rentals. 
                         Our low cost ads will allow for more
                         options to post ads and thus lower start up costs for tenants.
-                        <p></p>
+                        <br></br><p></p>
                         Join today and find the future home for your business.
-                        </h5>
+                        </h3>
+
+                        
+                    <Properties />
+
                                 </div>
 
                             </div>
-                        <div class="col-6 col-md-4">
+                        <div class="col-4">
 
                             <div class="d-flex justify-content-end pt-3 pointer">
                              <img src="https://s3-media3.fl.yelpcdn.com/bphoto/1GTD102Qdrd4qT9xV0k25w/ls.jpg" alt="adverts" height="300" width="300" />

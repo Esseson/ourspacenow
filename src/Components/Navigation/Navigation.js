@@ -6,7 +6,7 @@ import './Navigation.css';
 
 function Navigation() {
   return (
-    <div className="Navigation col-12">
+    <div className="Navigation edit">
    		 <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
 				<img class='grow pl-5 pr-5 pointer'src='https://static.wixstatic.com/media/f80a8a_95360b9c0b9b40e4bfa1c0da56b82b8c~mv2.jpg/v1/fill/w_189,h_129,al_c,q_80,usm_0.66_1.00_0.01/logo%202.webp' alt='logo' href='http://ourspacenow.herokuapp.com/'/>
 			  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
