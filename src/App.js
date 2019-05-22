@@ -2,7 +2,7 @@ import React,{ Component } from 'react';
 import './App.css';
 import Particles from 'react-particles-js';
 import Navigation from '../src/Components/Navigation/Navigation'
-import SearchProperties from '../src/Components/SearchProperties/SearchProperties'
+import SearchProperties from './Components/AboutUs/SearchProperties'
 
 
 
