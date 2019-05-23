@@ -9,6 +9,13 @@
 .edit{
     width: auto;
     align-content: center;
-    justify-content: center;    
+    justify-content: end;  
 }
 
+#navbarSupportedContent{
+    max-width: auto;
+}
+
+.left{
+    display: flex;
+}

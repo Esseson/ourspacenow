@@ -1,5 +1,6 @@
 import React from 'react';
 import './Navigation.css';
+import AboutUs from '../AboutUs/AboutUs';
 
 
 
@@ -16,19 +17,19 @@ function Navigation() {
 			  <div class="collapse navbar-collapse" id="navbarSupportedContent">
 			    <ul class="navbar-nav mr-auto">
 			      <li class="nav-item active">
-						<button type="button" class="btn btn-light pl-3 pr-3" href="http://ourspacenow.herokuapp.com/"><h5>Home</h5></button>
+						<button type="button" class="btn btn-light pl-3 pr-3 ml-3" href="http://ourspacenow.herokuapp.com/"><h5>Home</h5></button>
 			      </li>
 			      <li class="nav-item">
-						<button type="button" class="btn btn-light pl-3 pr-3" href="http://ourspacenow.herokuapp.com/"><h5>Register/SignUp</h5></button>
+						<button type="button" class="btn btn-light pl-3 pr-3 ml-3" href="http://ourspacenow.herokuapp.com/"><h5>Register/SignUp</h5></button>
 			      </li>
             <li class="nav-item">
-						<button type="button" class="btn btn-light pl-3 pr-3" href="http://ourspacenow.herokuapp.com/"><h5>Search For Space</h5></button>
+						<button type="button" class="btn btn-light pl-3 pr-3 ml-3" href="http://ourspacenow.herokuapp.com/"><h5>Search For Space</h5></button>
 			      </li>
             <li class="nav-item">
-						<button type="button" class="btn btn-light pl-3 pr-3" href="http://ourspacenow.herokuapp.com/"><h5>Post My Space</h5></button>
+						<button type="button" class="btn btn-light pl-3 pr-3 ml-3" href="http://ourspacenow.herokuapp.com/"><h5>Post My Space</h5></button>
 			      </li>
 						<li class="nav-item">
-						<button type="button" class="btn btn-light pl-3 pr-3" href="http://ourspacenow.herokuapp.com/"><h5>Contact Us</h5></button>
+						<button type="button" class="btn btn-light pl-3 pr-3 ml-3" href="http://ourspacenow.herokuapp.com/"><h5>Contact Us</h5></button>
 			      </li>
 
 			    </ul>
@@ -36,6 +37,11 @@ function Navigation() {
 			    </form>
 			  </div>
 	</nav>
+								<div class= 'left '>
+								<AboutUs />	
+
+									</div>
+
 
      
     </div>
