@@ -1,9 +1,18 @@
 .prop{
     border-bottom: 2px red solid;
+    
 }
 
 .address{
     text-align: left;
-    margin: auto 0px;
-    width: 700px;
+}
+
+h5{
+    text-align: left;
+}
+
+h6{
+
+    font-family: 'Arial', serif;
+
 }

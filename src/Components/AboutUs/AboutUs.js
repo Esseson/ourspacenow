@@ -12,12 +12,14 @@ function SearchProperties(){
                         <div class="row">
                         <div class="col-8">
                                     <div>
-                            <h1> <strong>About Our SpaceNow </strong> </h1>
+                            <h1> <strong>
+                            About Our Space Now
+                            </strong> 
+                            </h1>
                                  </div>
                                  <div class='content'>
                                  <aside>
-                                    <h3>Our Space Now is the place to find your future business space. 
-                                    <br></br>
+                                    <h5>Our Space Now is the place to find your future business space. <p></p>
                                     Unlike the giants in commercial space ads, OurSpaceNow.com caters
                                     to the small owners, agents and managers who make up a major part of the Retail/Office space rentals. <br></br>
                                     <p></p>
@@ -25,12 +27,15 @@ function SearchProperties(){
                                     options to post ads and thus lower start up costs for tenants.
                                     <br></br><p></p>
                                     Join today and find the future home for your business.
-                                    </h3>
+                                    </h5>
 
                                  </aside>
                         
                         <div>
                         <Properties />
+                        <Properties />
+
+
                         </div>
 
                                 </div>

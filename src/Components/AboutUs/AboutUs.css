@@ -9,6 +9,17 @@
 }
 
 .properties{
-    padding-top: 100px;
+    margin: 70px;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Arial', serif;
+
+}
+h5{
+    text-align: center;
+    font-family: 'Calibri', 'serif';
+
 
 }
